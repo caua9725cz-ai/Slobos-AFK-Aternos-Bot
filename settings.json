@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cauaCN.aternos.me",
-    "port": 32087,
+    "ip": "ELCDB.aternos.me",
+    "port": 61950,
     "version": "1.21.11",
     "try-creative": false
   },
